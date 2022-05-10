@@ -13,4 +13,4 @@
 ### Follow Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/n.krizh/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=instagram&logoColor=007BB6)](https://www.linkedin.com/in/nickita-krizh-59295322a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/nickita-krizh-59295322a/)
