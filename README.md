@@ -9,3 +9,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=red)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=blue)
 ![Node.JS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=green)
+
+### Follow Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)] (https://www.instagram.com/n.krizh/)
