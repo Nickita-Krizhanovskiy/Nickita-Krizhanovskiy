@@ -8,4 +8,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=red)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=blue)
-![Styled-components](https://img.shields.io/badge/-Styled-components-090909?style=for-the-badge&logo=Styled-components&logoColor=blue)
+![Node.JS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=blue)
