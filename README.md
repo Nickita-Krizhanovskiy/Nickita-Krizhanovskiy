@@ -6,5 +6,5 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=blue)
 
-![HTML/CSS](https://img.shields.io/badge/-HTML-090909?
+![HTML](https://img.shields.io/badge/-HTML-090909?
 style=for-the-badge&logo=HTML&logoColor=white)
